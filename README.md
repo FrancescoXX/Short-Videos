@@ -2,6 +2,9 @@
 A collection of short videos, suggested by the community
 
 How to contribute:
+
+Check https://www.youtube.com/c/FrancescoCiulla/playlists
+
 - Make a PR simply adding a line with:
   - video link
   - timestamp start
