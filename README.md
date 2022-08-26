@@ -14,4 +14,4 @@ Check https://www.youtube.com/c/FrancescoCiulla/playlists
 | Video link | Start | End (max 1 minute)| Suggester | Status |
 |--- |--- |--- |--- |--- |
 |[LINK]|0.00 |00.59 |[Francesco](https://francescociulla.com) |TBD |
-|[https://www.youtube.com/watch?v=Uc2aSwSDNXk]| 11:47| 12:28| (https://twitter.com/MrunayU)|TBD |
+|[Link](https://www.youtube.com/watch?v=Uc2aSwSDNXk)| 11:47| 12:28|[Mrunay](https://twitter.com/MrunayU)|TBD |
