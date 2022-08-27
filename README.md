@@ -13,4 +13,4 @@ Check https://www.youtube.com/c/FrancescoCiulla/playlists
 
 | Video link | Start | End (max 1 minute)| Suggester | Status |
 |--- |--- |--- |--- |--- |
-|[LINK]|0.00 |00.59 |[Francesco](https://francescociulla.com) |TBD |
+|[How to get content ideas when starting out](https://www.youtube.com/watch?v=jp3wuk9Ut2U)|9.36 |10.00 |[longestwavelength](https://twitter.com/longestwavelen) |TBD |
