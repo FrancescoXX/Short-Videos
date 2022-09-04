@@ -1,6 +1,8 @@
 # Short-Videos
 A collection of short videos, suggested by the community
 
+Other clips are here: https://twitter.com/search?q=francesclip&src=typed_query
+
 How to contribute:
 
 Check https://www.youtube.com/c/FrancescoCiulla/playlists
